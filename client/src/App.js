@@ -15,5 +15,5 @@ function App() {
     </Router>
   );
 }
-
+//https://reactrouter.com/web/api/Route/component
 export default App;

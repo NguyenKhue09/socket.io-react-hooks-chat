@@ -33,7 +33,10 @@ const useChat = (roomId) => {
     });
   };
 
-  return { messages, sendMessage };
+  return {
+     messages,
+     sendMessage 
+  };
 };
 
 export default useChat;
